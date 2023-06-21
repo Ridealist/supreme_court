@@ -1,0 +1,4 @@
+*.DS_Store
+gru_model/
+models/
+GRU_model.h5
